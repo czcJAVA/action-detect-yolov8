@@ -19,6 +19,27 @@
 
 这些动作类别对应的英文标签为：crouch, fall, near-fall, sitting, standing, walking。
 
+## 运行效果
+1.准备测试图片数据
+![contents](picture/picture1.png)
+2.启动程序
+![contents](picture/picture2.png)
+3.模型启动成功
+![contents](picture/picture3.png)
+4.动作行为识别
+![contents](picture/picture4.png)
+![contents](picture/picture5.png)
+![contents](picture/picture6.png)
+![contents](picture/picture7.png)
+![contents](picture/picture8.png)
+5.大模型识别耗时
+![contents](picture/picture9.png)
+大模型，数据分析（模型预测、神经网络、等）
+![contents](picture/picture10.png)
+![contents](picture/picture11.png)
+![contents](picture/picture12.png)
+![contents](picture/picture13.png)
+![contents](picture/picture14.png)
 ## 技术栈
 
 项目使用的主要技术包括：
